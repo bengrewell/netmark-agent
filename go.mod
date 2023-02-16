@@ -3,6 +3,7 @@ module github.com/bengrewell/netmark-agent
 go 1.19
 
 require (
+	github.com/StackExchange/wmi v1.2.1
 	github.com/fatih/color v1.14.1
 	github.com/hokaccha/go-prettyjson v0.0.0-20211117102719-0474bc63780f
 	github.com/shirou/gopsutil v3.21.11+incompatible
